@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "codex-integration-468502",
+  "private_key_id": "e6505bec9bb3ca0816de87c171e3ba529b2a7826",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbyjWu8373J13B\n3IyQhEsmd39DOt2RTWwelxW9p83ohRNa0X74dWJaS8cGHB3ersRNDSXHzCxKZ4Hf\nIQ/iWIPQijFYQGWPrJdf3B/uYpxl3K0l+cPmOQsJxSxoyl2Dh6fXWqkpNBGj/mmv\nmuRuzyg3mVmoJ5yRUXd5TFnnKAHZ3fNwVXRLvOkrL3VEkU/wU1OnbVlfIfVYHBuP\nBT0haI8X/v2Z5Q+l7+0dSacgRkCILig7txXbRoMnm/ufkEIZggEDjIE8fHYLqng+\ni4u8km1h4KkpJY4p7sxMM38PtZhvRGmlFmLeETwi1Yabe63Q4UCxHb+sh+AQa+8l\n89chSTZ9AgMBAAECggEACQ8QNxJJSuWFnKe5SWVVRLEvJmwjr8wg4i3RNvwtINJY\nJprxoftFaFBpYXASG+hCruOkU5gKPUYD4G3OPCWp0zRYm96cE+d/zTRXa6eym3O3\nt8fBvene5pxfXDU5jH6Ut7+PAD/bBL5e9otFsYcnOgXB7QwR8nCacg8KrUJ/dQ53\nxRwGzOIylPtxT1l5KkjzA5/hPelUhfJ/yZl/n1wI9xvzmHHbWFY3n2uNsso35Ko1\noHNJ+RgmXpLECkJZ+ac4O3xcvZju7Gi6YqH4VYZCnjkcaSCJ8tnJtzbSiLnVNqsU\n9psah9Rf4LKsi8vIuB++UoE0e03czFcKmW6lDZT4mwKBgQDaPzRnfESHydQGyJdG\nwnZJEzvs9hpSDLYFIIfO1SlH4RfI6r/AE+lWu/8FE9PJiQelHS8yXXLhiOzq3USO\n0u5ONQL9SXuxa1+jggV5vDmTsVfExf9R8waQYNVzPAP6T6pkLL81/En9S5uqyPok\nZU59CDOPgyXbyC2+IBhLJXwVSwKBgQC2vSxMCoey9F9GTdc53XTI+cWL3PMv1/Qp\nho29a1ylcVpG/FLzApC0s4EVR1sNdVo9v5T4jFFECeOc0jZ05tB6lpslNcmdSx/L\nrUjGDApsRU4UujyFi6VpNSt6mTERSXdzM7+XuFkEQfG6VixG7rSDWteaeszxvSzU\nkRwxws+uVwKBgD63ZQbMBiGDVUOxxw8VeMpdFZ5txniHoJLumzhLtzYpsB0ToJDA\n6A/9rDY4UWcb0q+XKGXvxsCbCYIgnb/xS3v77eT9hechNPWWup4WAfG4R8GLKGjT\nTrKUsSIRQA9hb1SkKzqHSnfYj15PrNpipmB1x+NYy7tR1htJu9F0byjrAoGAXR83\n1KRFFJ/NcXE3bYh5+/S0g5qb3tSo2wRzdISimLiT7bqltqqm/T7AWAydzNTxoKfh\njWtL+mUjtYW2NIpu0RmwhBzN2jcvQ8bRYANAyH3k1VE2iENqjpuGxZoNVCbhFTbY\nusM5sZ69RVymgZshKBMB7foIOGRT1RsBiCYjWU8CgYAGDStqmj112ZiCw595VIFP\nattkAiW4GRapzSEN12uwd+imGXSPcDh63zg5B5a3SS5Cc78GHXy35zaXWd+S8B1a\n7e5EpE5Pt9bg4u/q7CeGIKae2XMVj8BYDO02tng1azas4C/KNl4UGrpDEKUKHIK/\nwSljnNCQQSLOv1jrkC/FaQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "codex-sheets-connector@codex-integration-468502.iam.gserviceaccount.com",
+  "client_id": "110685677056279817522",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/codex-sheets-connector%40codex-integration-468502.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
